@@ -1,0 +1,3 @@
+C:/Users/frixo/numalcubo/cmake-build-debug/CMakeFiles/numalcubo.dir
+C:/Users/frixo/numalcubo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frixo/numalcubo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
